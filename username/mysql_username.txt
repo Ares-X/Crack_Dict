@@ -1,0 +1,12 @@
+mysql
+MYSQL
+Mysql
+MySQL
+sa
+sql
+database
+server
+admin
+root
+user
+test

