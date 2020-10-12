@@ -7577,6 +7577,8 @@ kingdee/login/loginpage.jsp
 get_pwd.jsp
 zecmd/zecmd.jsp
 console/login/LoginForm.jsp
+wls-wsat/CoordinatorPortType
+_async/AsyncResponseService
 login/Login.jsp
 customer.jsp
 is/index.jsp
